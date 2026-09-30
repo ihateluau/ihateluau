@@ -32,13 +32,4 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IHateLuau&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateLuau&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IHateLuau&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center"><i>"I hate Luau" — said while writing Luau.</i></p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=IHateLuau&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false&custom_title=IHateLuau%27s%202026%20Stats&show=prs_merged,prs_merged_percentage" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateLuau&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=IHateLuau&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
