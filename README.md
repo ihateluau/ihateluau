@@ -15,9 +15,7 @@
 
 - 🇬🇧 Based in the **United Kingdom**
 - 💻 I write code in Python, JavaScript, C++ and Lua
-- 🤔 Despite the name, I **do** work with Luau... it's complicated
-- 🌱 Currently learning: *(add something here!)*
-- 📫 Reach me: *(add Discord / email / socials)*
+- 🌱 Currently learning: *C & C#*
 
 ## 🛠️ Tech Stack
 
